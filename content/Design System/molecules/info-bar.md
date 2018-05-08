@@ -1,3 +1,7 @@
+---
+title: Info Bar
+---
+
 #### Molecule
 
 # Info Bar

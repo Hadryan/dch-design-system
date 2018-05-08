@@ -1,3 +1,7 @@
+---
+title: Content Item
+---
+
 #### Molecule
 
 # Content Item

@@ -1,3 +1,7 @@
+---
+title: Concert Details (Archive)
+---
+
 #### Page
 
 # Concert Details (Archive)

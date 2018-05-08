@@ -1,3 +1,7 @@
+---
+title: Thumbnail
+---
+
 #### Atom
 
 {% tabs %}

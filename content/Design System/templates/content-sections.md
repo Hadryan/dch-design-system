@@ -1,3 +1,7 @@
+---
+title: Content Section
+---
+
 #### Template
 
 # Content Section
@@ -9,6 +13,4 @@
 * [Featured Content Area](/Design-System/Components/Featured-Content-Area.md)
 * [Content Lists](/Design-System/Components/Content-List.md) \(multiple instances\)
 * [Browse](#) \(entry point\)
-
-
 

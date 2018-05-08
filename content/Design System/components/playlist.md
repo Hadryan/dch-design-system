@@ -1,3 +1,7 @@
+---
+title: Playlist
+---
+
 #### Component
 
 # Playlist

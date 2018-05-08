@@ -1,3 +1,7 @@
+---
+title: Featured Content Area
+---
+
 #### Component
 
 # Featured Content Area

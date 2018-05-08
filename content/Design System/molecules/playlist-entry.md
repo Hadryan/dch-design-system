@@ -1,3 +1,7 @@
+---
+title: Playlist Entry
+---
+
 #### Molecule
 
 # Playlist Entry

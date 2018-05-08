@@ -1,3 +1,7 @@
+---
+title: Navigation
+---
+
 #### Component
 
 # Navigation
