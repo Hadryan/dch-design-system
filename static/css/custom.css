@@ -1,0 +1,11 @@
+body > header {
+	display: none;
+}
+
+body > article {
+	margin-top: 0;
+}
+
+body > article > aside {
+	top: 0;
+}
