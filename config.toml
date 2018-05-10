@@ -43,7 +43,10 @@ enableGitInfo = true
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+# 
 
+# Menu shortcuts
+#
 # [[menu.shortcuts]]
 # pre = "<h3>More</h3>"
 # name = "<i class='fa fa-github'></i> <label>Github repo</label>"

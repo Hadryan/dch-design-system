@@ -51,7 +51,7 @@ Type Styles are separated into three groups:
 * Body - Anything that exists within the flow of the page content
 * Elements - Unique visual elements like buttons, labels, where space is limited
 
-[![](/assets/images/Typography/Type Styles.png)](https://zpl.io/VQoOXek)
+[![](/assets/images/typography/type-styles.png)](https://zpl.io/VQoOXek)
 
 If a new feature or unit is impossible to design without adding a new style, it needs to go through a design review and then be added into the Design System before being implemented anywhere. New styles should have potential use cases beyond just the newest element designed.
 
@@ -60,10 +60,10 @@ If a new feature or unit is impossible to design without adding a new style, it 
 
 Colors are separated from style for greater flexibility. Most type is defined by contrast. High is the default value and does not need to be specified.
 
-![](/assets/images/Typography/Type Colors.png)
+![](/assets/images/typography/type-colors.png)
 
 For more information:
-* [Color and Contrast](/Design/Style/Color.md)
+* [Color and Contrast](/design/style/color)
 
 {% endtab %}
 
@@ -73,12 +73,12 @@ For more information:
 
 ### XS - S
 
-[![](/assets/images/Typography/Type Styles.png)](https://zpl.io/VQoOXek)
+[![](/assets/images/typography/type-styles.png)](https://zpl.io/VQoOXek)
 
 
 ### M
 
-[![](/assets/images/Typography/Type Styles M.png)](https://zpl.io/bl1vqre)
+[![](/assets/images/typography/type-styles-m.png)](https://zpl.io/bl1vqre)
 
 
 {% endtab %}
