@@ -6,9 +6,9 @@ title: Content Type Label
 
 # Content Type Label
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 ![](/images/atoms/content-type-label/variants.png)
 
@@ -21,9 +21,9 @@ These labels identify content items. They should be simple, readable and closely
 * Easily spot different content types
 * Establish a color system across the app (live, archive, free)
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Specs" %}
+{{% tab "Specs" %}}
 
 ## Specs
 
@@ -39,23 +39,23 @@ These labels identify content items. They should be simple, readable and closely
 
 [![](/images/atoms/content-type-label/variants.png)](http://zpl.io/a3xokRd)
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Labels" %}
+{{% tab "Labels" %}}
 
-### Labels
+## Labels
 
-| Content | Label key | Notes |
-| --- | --- |--- | --- |
-| concert | DCH_content_type_concert| |
-| upcoming live concert | DCH_content_type_live | |
-| running live concert | DCH_content_type_live_now | should be used only in DCH state D3 |
-| work | DCH_content_type_label_work | | 
-| film | DCH_content_type_label_film | | 
-| interview | DCH_content_type_label_interview | | 
-| playlist | DCH_content_type_label_playlist | | 
-| free content | DCH_free_content_label | this is an additional label, it applies to all content types with attribute is_free = true |
+| Content               | Label key                        | Notes                                                        |
+| --------------------- | -------------------------------- | ------------------------------------------------------------ |
+| concert               | DCH_content_type_concert         |                                                              |
+| upcoming live concert | DCH_content_type_live            |                                                              |
+| running live concert  | DCH_content_type_live_now        | should be used only in DCH state D3                          |
+| work                  | DCH_content_type_label_work      |                                                              |
+| film                  | DCH_content_type_label_film      |                                                              |
+| interview             | DCH_content_type_label_interview |                                                              |
+| playlist              | DCH_content_type_label_playlist  |                                                              |
+| free content          | DCH_free_content_label           | this is an additional label, it applies to all content types with attribute is_free = true |
 
-{% endtab %}
+{{% /tab %}}
 
-{% endtabs %}
+{{% /tabs %}}
