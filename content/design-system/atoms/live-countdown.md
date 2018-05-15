@@ -36,7 +36,7 @@ Click images for up-to-date measurements and features.
 ## Labels
 
 | Content | Label key |
-| --- | --- |--- |
+|---------|-----------|
 | days | DCH_countdown_days |
 | hours | DCH_countdown_hours |
 | minutes | DCH_countdown_minutes |
