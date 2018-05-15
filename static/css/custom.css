@@ -1,4 +1,4 @@
-body > header {
+body > header, .post-header {
 	display: none;
 }
 
@@ -23,8 +23,8 @@ article > aside .menu .dd-item.active > div * {
 	border: none;
 }
 
-/* Sidebar links */
-article > aside .menu a {
+/* Sidebar links, down arrow */
+article > aside .menu a, article > aside .menu .dd-item div i.category-icon {
 	color: #dadada;
 }
 
