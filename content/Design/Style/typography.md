@@ -3,9 +3,9 @@ title: Typography
 weight: 2
 ---
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 Typography on the DCH Platform aims to replicate the feel of the Berliner Philharmoniker brand in a visual way, while feeling at home on each digital platform seperately. With a quite neutral family as the baseline, default platform typefaces are used with certain spacing techniques to create the same look and feel across all devices, yet each version feels at home on the OS in question. 
 The feel of type is much more defined by the space around it, the line-height and its role in the vertical rhythm of the design, the tracking between the letters, and the weight of the type. By focusing on limited but powerful text styles across the whole platform, we can then offer OS-specific variations on type treatment for those styles.
@@ -65,9 +65,9 @@ Colors are separated from style for greater flexibility. Most type is defined by
 For more information:
 * [Color and Contrast](/design/style/color)
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Specs" %}
+{{% tab "Specs" %}}
 
 ## Text Variables
 
@@ -81,9 +81,9 @@ For more information:
 [![](/assets/images/typography/type-styles-m.png)](https://zpl.io/bl1vqre)
 
 
-{% endtab %}
+{{% /tab %}}
 
-{% endtabs %}
+{{% /tabs %}}
 
 
 

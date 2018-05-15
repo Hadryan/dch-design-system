@@ -6,9 +6,9 @@ title: Playlist
 
 # Playlist
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 ## Overview
 
@@ -36,9 +36,9 @@ A compilation of playlist entries to form a collection of media, playable in ord
 
 
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Specs" %}
+{{% tab "Specs" %}}
 
 ## Visual Reference
 Click images for up-to-date measurements and features on InVision.
@@ -49,7 +49,7 @@ Click images for up-to-date measurements and features on InVision.
 #### S
 [![](/images/components/playlist/Works s.png)](https://zpl.io/bzYyymz)
 
-{% endtab %}
+{{% /tab %}}
 
-{% endtabs %}
+{{% /tabs %}}
 

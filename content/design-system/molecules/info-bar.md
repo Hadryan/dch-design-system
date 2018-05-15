@@ -5,9 +5,9 @@ title: Info Bar
 #### Molecule
 
 # Info Bar
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 ![](/images/molecules/info-bar/cover.png)
 
@@ -20,9 +20,9 @@ The info bar identifies the content type, as well as the content's date in the c
 * [Content Type Label](/design-system/atoms/content-type-label)
 * Content Item Date
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Specs" %}
+{{% tab "Specs" %}}
 
 ## What to display
 
@@ -41,5 +41,5 @@ Click images for up-to-date measurements and features.
 
 [![](/images/molecules/info-bar/xs.png)](https://zpl.io/bWBlMQk)
 
-{% endtab %}
-{% endtabs %}
+{{% /tab %}}
+{{% /tabs %}}

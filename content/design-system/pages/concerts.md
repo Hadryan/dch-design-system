@@ -6,9 +6,9 @@ title: Concerts
 
 # Concerts
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 ![A sample concerts page](/images/pages/Concerts.jpg)
 
@@ -28,9 +28,9 @@ This is the main entry point for users who want to browse our archive, as well a
 
 _here should we list the specific contents of the content lists for example?_
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Specs" %}
+{{% tab "Specs" %}}
 
 If the interface offers a space for section titles, as in the mobile app ui, use the label [DCH\_navigation\_concerts](https://phraseapp.com/accounts/digital-concert-hall/projects/dch-default-dictionary/editor?translation_key_id=68c70d893e366b8021fcd494351255da&amp;source_locale_id=cbf486802fbde9dad58791462c894217&amp;target_locale_id=cbf486802fbde9dad58791462c894217&amp;show_changes=false&amp;search=eyJmaWx0ZXJzIjpbIiIsInRyYW5zbGF0ZWQiLCJ1bnRyYW5zbGF0ZWQiLCJleGNsdWRlZCIsImluY2x1ZGVkIiwidW52ZXJpZmllZCIsInZlcmlmaWVkIiwicGx1cmFsaXplZCIsInVucGx1cmFsaXplZCJdLCJxdWVyeSI6IkRDSF9uYXZpZ2F0aW9uKiIsInNvcnRpbmciOiJzY29yZSIsImxvY2FsZV9pZCI6IjJlM2ViM2ZiYmM4ZjEwZGE2ZjY0OTc3NmFmNzYxYmM5In0%3D&amp;next_translation_key_id=10cc98d088adbddfa1e64f7a6638e850).
 
@@ -65,6 +65,6 @@ In the initial state of the view and after clearing filter results the content i
 
 
 
-{% endtab %}
+{{% /tab %}}
 
-{% endtabs %}
+{{% /tabs %}}

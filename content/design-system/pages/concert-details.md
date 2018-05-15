@@ -6,19 +6,19 @@ title: Concert Details
 
 # Concert Details
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 ## Overview
 
 ## Breakdown
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Specs" %}
+{{% tab "Specs" %}}
 
 Specs
 
-{% endtab %}
-{% endtabs %}
+{{% /tab %}}
+{{% /tabs %}}

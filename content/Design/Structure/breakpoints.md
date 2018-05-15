@@ -2,9 +2,9 @@
 title: Breakpoints
 ---
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 ## How It Works
 
@@ -25,9 +25,9 @@ Throughout this document, these breakpoints will be referenced, and should be un
 
 Our system uses a simple naming convention (**XS**, **S**, **M**, **L** and **XL**) and are defined in **pixels**. As we design everything in 1x, these pixels are equivalent to 1 **point**/**dp**.
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Sizes" %}
+{{% tab "Sizes" %}}
 
 | Name   | Min. Width | Max. Width |
 | ------ | ---------- | ---------- |
@@ -37,9 +37,9 @@ Our system uses a simple naming convention (**XS**, **S**, **M**, **L** and **XL
 | **L**  | 1024px     | 1365px     |
 | **XL** | 1366px     | -          |
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="iOS" %}
+{{% tab "iOS" %}}
 
 | Name                  | Size Classes                  | Orientation | Breakpoint |
 | --------------------- | ----------------------------- | ----------- | ---------- |
@@ -53,9 +53,9 @@ Our system uses a simple naming convention (**XS**, **S**, **M**, **L** and **XL
 
 \* *when available; mobile versions currently don't work on landscape except for fullscreen playback.*
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Android" %}
+{{% tab "Android" %}}
 
-{% endtab %}
-{% endtabs %}
+{{% /tab %}}
+{{% /tabs %}}

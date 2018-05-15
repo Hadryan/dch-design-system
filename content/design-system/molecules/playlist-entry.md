@@ -6,9 +6,9 @@ title: Playlist Entry
 
 # Playlist Entry
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 A Playlist Entry indicates all the revelant controls and metadata for a specific piece of media that gets displayed in a playlist view. 
 
@@ -44,12 +44,12 @@ If the entry is being played in the media player, it will appear as Playing.
 ![](/images/molecules/playlist-entry/playlist-entry-playing.png)
 
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Specs" %}
+{{% tab "Specs" %}}
 
 ## What to display
 
-{% endtab %}
+{{% /tab %}}
 
-{% endtabs %}
+{{% /tabs %}}

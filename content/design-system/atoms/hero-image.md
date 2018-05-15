@@ -4,9 +4,9 @@ title: Hero Image
 
 #### Atom
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 # Hero Image
 
 ![](/images/atoms/hero-image/m.png)
@@ -21,8 +21,8 @@ This is an image element which appears in the most prominent area of the view, a
 * Promote media playback
 * Add impact to every item presented
 
-{% endtab %}
-{% tab title="Specs" %}
+{{% /tab %}}
+{{% tab "Specs" %}}
 
 ## Visual Reference
 
@@ -56,12 +56,12 @@ Click images for up-to-date measurements and features.
 * Whenever content is overlaid on the hero image, a **gradient** must be used
 * Define this gradient
 
-{% endtab %}
-{% tab title="Accessibility" %}
+{{% /tab %}}
+{{% tab "Accessibility" %}}
 
 ## Accessibility
 
 ### alternative text
 
-{% endtab %}
-{% endtabs %}
+{{% /tab %}}
+{{% /tabs %}}

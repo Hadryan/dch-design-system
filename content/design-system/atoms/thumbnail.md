@@ -4,9 +4,9 @@ title: Thumbnail
 
 #### Atom
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Specs" %}
+{{% tab "Specs" %}}
 
 # Thumbnail
 
@@ -22,9 +22,9 @@ This is an image element that appears in smaller modules. It may appear small, o
 * Hint at context of the item
 * Add impact to every item presented
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Specs" %}
+{{% tab "Specs" %}}
 
 ## Visual Reference
 
@@ -35,5 +35,5 @@ This is an image element that appears in smaller modules. It may appear small, o
 
 Click images for up-to-date measurements and features.
 
-{% endtab %}
-{% endtabs %}
+{{% /tab %}}
+{{% /tabs %}}

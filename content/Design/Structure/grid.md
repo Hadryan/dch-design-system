@@ -2,9 +2,9 @@
 title: Grid
 ---
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 ## How It Works
 
@@ -28,9 +28,9 @@ The Column width is variable, filling up the space left when gutter width and ma
 | **L**      | 12 x %    | 24px   | 80px   |
 | **XL**     | 12 x 78px | 24px   | Rest   |
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Specs" %}
+{{% tab "Specs" %}}
 
 ### Visual Reference
 
@@ -56,5 +56,5 @@ The Column width is variable, filling up the space left when gutter width and ma
 ![](/assets/images/Grid/Grid-XL.png)
 
 
-{% endtab %}
-{% endtabs %}
+{{% /tab %}}
+{{% /tabs %}}

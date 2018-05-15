@@ -6,9 +6,9 @@ title: Concert Details (Archive)
 
 # Concert Details (Archive)
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 ![](/images/pages/details/concert/cover.jpg)
 _**Temporary Image**_
@@ -21,9 +21,9 @@ This view contains all information related to a specific concert, including meta
 * Display participant and conductor details
 * Allow navigation within concert
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Visual Reference" %}
+{{% tab "Visual Reference" %}}
 
 Click images for up-to-date measurements and features.
 
@@ -43,9 +43,9 @@ _**Temporary Image**_
 ![](/images/pages/details/concert/l.png)
 _**Temporary Image**_
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Labels" %}
+{{% tab "Labels" %}}
 
 API: concert.type = "vod"
 
@@ -169,5 +169,5 @@ Use the headline  "Watch now" \([DCH\_content\_detail\_screen\_concert\_watch\_n
 [See 2.5.10 Related Content Logic](https://docs.digitalconcerthall.com/2.0 Application/26221-related-content-logic.html)
 
 
-{% endtab %}
-{% endtabs %}
+{{% /tab %}}
+{{% /tabs %}}

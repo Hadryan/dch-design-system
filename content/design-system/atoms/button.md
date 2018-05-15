@@ -6,9 +6,9 @@ title: Button
 
 # Button
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 ![](/images/atoms/buttons/cover.png)
 
@@ -52,9 +52,9 @@ Secondary actions are what most buttons will be on a page. They should not be sp
 
 Different platforms may require different button states. Please use the spec link as your reference for those.
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Specs" %}
+{{% tab "Specs" %}}
 
 ### Button states
 
@@ -93,8 +93,8 @@ Different platforms may require different button states. Please use the spec lin
 * Number of columns must be even
 * Half-width buttons are as wide as 1/2 of available columns, spaced by the gutter
 
-{% endtab %}
-{% tab title="Accessibility" %}
+{{% /tab %}}
+{{% tab "Accessibility" %}}
 
 ## Accessibility
 
@@ -102,6 +102,6 @@ Different platforms may require different button states. Please use the spec lin
 
 ### status
 
-{% endtab %}
+{{% /tab %}}
 
-{% endtabs %}
+{{% /tabs %}}

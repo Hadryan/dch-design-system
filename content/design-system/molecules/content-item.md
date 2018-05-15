@@ -6,9 +6,9 @@ title: Content Item
 
 # Content Item
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 Content Items (CI) are visual representations of the DCH catalog, used for browsing. They should contain just enough information to help users find their desired content, and look visually appealing and inviting.
 
@@ -32,9 +32,9 @@ Depending on context, a CI may appear in two modes:
 * Engage and invite to view item/read more information
 
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Card" %}
+{{% tab "Card" %}}
 
 ## Card Format
 Cards are big and bold, so they're great for browsing smaller row-based lists, but due to their size, not so great for large collections.
@@ -73,9 +73,9 @@ _TODO_
   * Show all breakpoints
   * Include content specs
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Compact" %}
+{{% tab "Compact" %}}
 ## Compact Format
 
 _TODO_
@@ -93,5 +93,5 @@ _TODO_
   * Include content specs
 
 
-{% endtab %}
-{% endtabs %}
+{{% /tab %}}
+{{% /tabs %}}

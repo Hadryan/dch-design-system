@@ -6,9 +6,9 @@ title: Live Countdown
 
 # Live Countdown
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 ## Overview
 
@@ -16,9 +16,9 @@ title: Live Countdown
 
 The countdown element appears on certain views of upcoming **live** content items. It's meant to engage users and remind them a concert is coming.
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Specs" %}
+{{% tab "Specs" %}}
 
 ## Visual Reference
 Click images for up-to-date measurements and features.
@@ -29,9 +29,9 @@ Click images for up-to-date measurements and features.
 ### XL
 [![](/images/molecules/live-countdown/xl.png)](https://zpl.io/b6QXnJm)
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Labels" %}
+{{% tab "Labels" %}}
 
 ## Labels
 
@@ -42,15 +42,15 @@ Click images for up-to-date measurements and features.
 | minutes | DCH_countdown_minutes |
 | seconds | DCH_countdown_seconds |
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Accessibility" %}
+{{% tab "Accessibility" %}}
 
 ## Accessibility
 
 ### alternative text
 
 
-{% endtab %}
+{{% /tab %}}
 
-{% endtabs %}
+{{% /tabs %}}

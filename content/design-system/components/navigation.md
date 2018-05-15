@@ -6,9 +6,9 @@ title: Navigation
 
 # Navigation
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 ## Overview
 
@@ -29,9 +29,9 @@ Each platform uses a combination of different navigation types, and their conten
 * Side Navigation
 * Footer
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Web" %}
+{{% tab "Web" %}}
 
 **Web** uses the following elements:
 
@@ -116,7 +116,7 @@ Click images for up-to-date measurements and features.
 #### L
 [![](/images/components/navigation/web/Footer/l.png)]()
 
-{% endtab %}
+{{% /tab %}}
 
-{% endtabs %}
+{{% /tabs %}}
 

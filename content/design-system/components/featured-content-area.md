@@ -6,9 +6,9 @@ title: Featured Content Area
 
 # Featured Content Area
 
-{% tabs %}
+{{% tabs %}}
 
-{% tab title="Overview" %}
+{{% tab "Overview" %}}
 
 ## Overview
 
@@ -31,9 +31,9 @@ A premium area where promoted content gets displayed in a prominent way. Its goa
 * Always at the top of a Template
 * Key elements are visual imagery and event information (date, title)
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="Specs" %}
+{{% tab "Specs" %}}
 
 ## Visual Reference
 Click images for up-to-date measurements and features on InVision.
@@ -79,20 +79,20 @@ Notes:
 [![](/images/components/featured-content-area/FCA_Live_xl.png)](https://zpl.io/2yJej4w)
 
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="iOS" %}
+{{% tab "iOS" %}}
 
 
 * Background Image Blur is added underneath Title area
 
-{% endtab %}
+{{% /tab %}}
 
-{% tab title="TV" %}
+{{% tab "TV" %}}
 
 * "More" Button is added for Focus Navigation
 
-{% endtab %}
+{{% /tab %}}
 
-{% endtabs %}
+{{% /tabs %}}
 
