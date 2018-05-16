@@ -2,9 +2,6 @@
 title: Info Bar
 ---
 
-#### Molecule
-
-# Info Bar
 {{% tabs %}}
 
 {{% tab "Overview" %}}

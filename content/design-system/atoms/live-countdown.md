@@ -2,10 +2,6 @@
 title: Live Countdown
 ---
 
-#### Atom
-
-# Live Countdown
-
 {{% tabs %}}
 
 {{% tab "Overview" %}}

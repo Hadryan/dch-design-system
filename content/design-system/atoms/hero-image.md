@@ -2,13 +2,9 @@
 title: Hero Image
 ---
 
-#### Atom
-
 {{% tabs %}}
 
 {{% tab "Overview" %}}
-# Hero Image
-
 ![](/images/atoms/hero-image/m.png)
 
 ## Overview

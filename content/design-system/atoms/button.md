@@ -2,15 +2,11 @@
 title: Button
 ---
 
-#### Atom
-
-# Button
-
 {{% tabs %}}
 
 {{% tab "Overview" %}}
 
-![](/images/atoms/buttons/cover.png)
+![](/images/atoms/button/cover.png)
 
 ## Usage
 
@@ -18,7 +14,7 @@ Buttons are used primarily on action items. Some examples include Watch Concert,
 
 ## Variants
 
-![](/images/atoms/buttons/variants.png)
+![](/images/atoms/button/variants.png)
 
 ### Types of Button
 
@@ -58,7 +54,7 @@ Different platforms may require different button states. Please use the spec lin
 
 ### Button states
 
-![](/images/atoms/buttons/states.png)
+![](/images/atoms/button/states.png)
 
 ### Visual Reference
 
@@ -74,20 +70,20 @@ Different platforms may require different button states. Please use the spec lin
 
 #### XS
 
-[![](/images/atoms/buttons/xs.png)](https://zpl.io/bJOXMM3)
+[![](/images/atoms/button/xs.png)](https://zpl.io/bJOXMM3)
 
 * One button per row; do not fit two buttons side-by-side
 * The "half-width" buttons simply become full-width
 
 #### S
 
-[![](/images/atoms/buttons/s.png)](https://zpl.io/be1l69Y)
+[![](/images/atoms/button/s.png)](https://zpl.io/be1l69Y)
 
 * Two buttons may be used side-by-side (half-width), spaced by the gutter
 
 #### M
 
-[![](/images/atoms/buttons/m.png)](https://zpl.io/VkYgQ4G)
+[![](/images/atoms/button/m.png)](https://zpl.io/VkYgQ4G)
 
 * Component/Page define number of columns for full width/side-by-side buttons
 * Number of columns must be even

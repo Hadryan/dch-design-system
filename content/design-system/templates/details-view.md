@@ -1,11 +1,6 @@
 ---
 title: Details View
 ---
-
-#### Templates
-
-# Details View
-
 ## Overview
 
 The details view is the official place where all information about a certain **content item** can be obtained, from top-level to more in-depth. Here the user can watch the content, previews as well as navigate the item's specific sub-parts.

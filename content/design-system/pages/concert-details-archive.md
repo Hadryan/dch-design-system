@@ -2,16 +2,12 @@
 title: Concert Details (Archive)
 ---
 
-#### Page
-
-# Concert Details (Archive)
-
 {{% tabs %}}
 
 {{% tab "Overview" %}}
 
 ![](/images/pages/details/concert/cover.jpg)
-_**Temporary Image**_
+
 
 This view contains all information related to a specific concert, including metadata and a browsable list of included works.
 
@@ -29,19 +25,19 @@ Click images for up-to-date measurements and features.
 
 ### XS
 ![](/images/pages/details/concert/xs.png)
-_**Temporary Image**_
+
 
 ### S
 ![](/images/pages/details/concert/s.png)
-_**Temporary Image**_
+
 
 ### M
 ![](/images/pages/details/concert/m.png)
-_**Temporary Image**_
+
 
 ### L
 ![](/images/pages/details/concert/l.png)
-_**Temporary Image**_
+
 
 {{% /tab %}}
 

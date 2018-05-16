@@ -2,10 +2,6 @@
 title: Concert Details
 ---
 
-#### Page
-
-# Concert Details
-
 {{% tabs %}}
 
 {{% tab "Overview" %}}

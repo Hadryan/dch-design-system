@@ -2,10 +2,6 @@
 title: Content Type Label
 ---
 
-#### Atom
-
-# Content Type Label
-
 {{% tabs %}}
 
 {{% tab "Overview" %}}
@@ -25,9 +21,7 @@ These labels identify content items. They should be simple, readable and closely
 
 {{% tab "Specs" %}}
 
-## Specs
-
-#### General Rules
+## General Rules
 
 ![](/images/atoms/content-type-label/breakdown.png)
 

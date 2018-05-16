@@ -2,17 +2,12 @@
 title: Thumbnail
 ---
 
-#### Atom
-
 {{% tabs %}}
 
-{{% tab "Specs" %}}
-
-# Thumbnail
+{{% tab "Overview" %}}
 
 ![](/images/atoms/hero-image/xs.png)
 
-## Overview
 
 This is an image element that appears in smaller modules. It may appear small, or very small, so images should be chosen accordingly.
 

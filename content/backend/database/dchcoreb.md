@@ -156,9 +156,8 @@ An interview is structurally almost identical to a work. An interview entity con
 ---
 
 ### Playlists 
-*(also known as collection or anthology)
-*
-Playlists are editorially composed lists of concert pieces. 
+* (also known as collection or anthology)
+* Playlists are editorially composed lists of concert pieces. 
 
 They are designed to aggregate and promote concert pieces in the archive outside the context of - their parent concerts.  
 

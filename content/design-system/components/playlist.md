@@ -2,10 +2,6 @@
 title: Playlist
 ---
 
-#### Component
-
-# Playlist
-
 {{% tabs %}}
 
 {{% tab "Overview" %}}
@@ -18,15 +14,9 @@ A compilation of playlist entries to form a collection of media, playable in ord
 
 ![](/images/components/playlist/breakdown.png)
 
-
-
-* [Playlist Entry](/design-system/molecules/Playlist-Entry)
-* [Action Toggle](/design-system/atoms/Action-Toggle)
-* [Progress Bar](/design-system/atoms/Action-Toggle)
-
-
-
-
+* [Playlist Entry](/design-system/molecules/playlist-entry)
+* [Action Toggle](/design-system/atoms/action-toggle)
+* [Progress Bar](/design-system/atoms/progress-bar)
 
 
 ### Usage
@@ -44,10 +34,10 @@ A compilation of playlist entries to form a collection of media, playable in ord
 Click images for up-to-date measurements and features on InVision.
 
 #### XS
-[![](/images/components/playlist/Works xs.png)](https://zpl.io/2GzppLm)
+[![](/images/components/playlist/works-xs.png)](https://zpl.io/2GzppLm)
 
 #### S
-[![](/images/components/playlist/Works s.png)](https://zpl.io/bzYyymz)
+[![](/images/components/playlist/works-s.png)](https://zpl.io/bzYyymz)
 
 {{% /tab %}}
 

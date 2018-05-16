@@ -2,19 +2,15 @@
 title: Concerts
 ---
 
-#### Page
-
-# Concerts
-
 {{% tabs %}}
 
 {{% tab "Overview" %}}
 
-![A sample concerts page](/images/pages/Concerts.jpg)
-
 ## Overview
 
 This is the main entry point for users who want to browse our archive, as well as check on upcoming live concerts. It should be seen as a space for curated content rather than a warehouse of information. Make use of **Content Lists** for this purpose.
+
+![A sample concerts page](/images/pages/concerts.jpg)
 
 
 ## Goals

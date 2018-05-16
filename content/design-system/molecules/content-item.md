@@ -2,10 +2,6 @@
 title: Content Item
 ---
 
-#### Molecule
-
-# Content Item
-
 {{% tabs %}}
 
 {{% tab "Overview" %}}

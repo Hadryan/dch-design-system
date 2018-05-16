@@ -2,15 +2,9 @@
 title: Navigation
 ---
 
-#### Component
-
-# Navigation
-
 {{% tabs %}}
 
 {{% tab "Overview" %}}
-
-## Overview
 
 The navigation component is how users know where they are in the service, and the way for them to jump between major content sections, as well as settings and other views.
 
@@ -27,7 +21,7 @@ Each platform uses a combination of different navigation types, and their conten
 * Tab Bar
 * Header
 * Side Navigation
-* Footer
+* footer
 
 {{% /tab %}}
 
@@ -36,7 +30,7 @@ Each platform uses a combination of different navigation types, and their conten
 **Web** uses the following elements:
 
 * Header
-* Footer
+* footer
 * Sidebar (only for small sizes)
 
 ---
@@ -51,19 +45,19 @@ _Insert table_
 Click images for up-to-date measurements and features.
 
 #### XS
-[![](/images/components/navigation/web/Header/xs.png)]()
+[![](/images/components/navigation/web/header/xs.png)](#)
 
 #### S
-[![](/images/components/navigation/web/Header/s.png)]()
+[![](/images/components/navigation/web/header/s.png)](#)
 
 #### M
-[![](/images/components/navigation/web/Header/m.png)]()
+[![](/images/components/navigation/web/header/m.png)](#)
 
 #### L
-[![](/images/components/navigation/web/Header/l.png)]()
+[![](/images/components/navigation/web/header/l.png)](#)
 
 #### XL
-[![](/images/components/navigation/web/Header/xl.png)]()
+[![](/images/components/navigation/web/header/xl.png)](#)
 
 ---
 
@@ -77,18 +71,18 @@ _Insert table_
 Click images for up-to-date measurements and features.
 
 #### XS
-[![](/images/components/navigation/web/Side-Navigation/xs.png)]()
+[![](/images/components/navigation/web/side-navigation/xs.png)](#)
 
 #### S
-[![](/images/components/navigation/web/Side-Navigation/s.png)]()
+[![](/images/components/navigation/web/side-navigation/s.png)](#)
 
 Collapsed
 
-[![](/images/components/navigation/web/Side-Navigation/S--expanded.png)]()
+[![](/images/components/navigation/web/side-navigation/S--expanded.png)](#)
 
 Expanded
 
-[![](/images/components/navigation/web/Side-Navigation/S--expanded-scrolled.png)]()
+[![](/images/components/navigation/web/side-navigation/S--expanded-scrolled.png)](#)
 
 Scrolled
 
@@ -105,16 +99,16 @@ _Insert table_
 Click images for up-to-date measurements and features.
 
 #### XS
-[![](/images/components/navigation/web/Footer/xs.png)]()
+[![](/images/components/navigation/web/footer/xs.png)](#)
 
 #### S
-[![](/images/components/navigation/web/Footer/s.png)]()
+[![](/images/components/navigation/web/footer/s.png)](#)
 
 #### M
-[![](/images/components/navigation/web/Footer/m.png)]()
+[![](/images/components/navigation/web/footer/m.png)](#)
 
 #### L
-[![](/images/components/navigation/web/Footer/l.png)]()
+[![](/images/components/navigation/web/footer/l.png)](#)
 
 {{% /tab %}}
 
