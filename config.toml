@@ -1,10 +1,10 @@
-baseURL = "/"
+baseURL = "/dch-design-system/public/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Digital Concert Hall Design System"
 theme = "docdock"
-# themesdir = "../.."
+themesdir = "themes/"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
